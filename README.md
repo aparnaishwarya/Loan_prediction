@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/loan-approval-prediction.git
+git clone copied_code
 cd loan_prediction
 
 Install dependencies:
