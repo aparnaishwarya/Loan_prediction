@@ -69,6 +69,6 @@ id,loan_status
 58646,0.3
 ...
 
-Ensure the submission.csv file is correctly formatted before submission.
+Ensure the submission.csv file is correctly formatted 
 
 
